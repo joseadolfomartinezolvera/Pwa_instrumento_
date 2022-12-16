@@ -1,0 +1,15 @@
+.photo {
+    position: absolute;
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    pointer-events: none;
+    z-index: -1;
+}
+
+.section-photo{
+    background: rgba(255,255,255,50%);
+    border-radius: 1rem;
+}
