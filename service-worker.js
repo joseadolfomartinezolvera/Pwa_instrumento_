@@ -2,9 +2,9 @@ const CACHE_NAME_DYNAMIC = 'dynamic-v1';
 
 const CACHE_NAME_CORE = 'cache-v2';
 const CACHE_FILES_CORE = [
-    'https://gerbo67.github.io/Divisas/img/logo.png',
-    'https://gerbo67.github.io/Divisas/img/flechas.png',
-    'https://gerbo67.github.io/Divisas/index.html',
+    'https://joseadolfomartinezolvera.github.io/Divisas/img/logo.png',
+    'https://joseadolfomartinezolvera.github.io/Divisas/img/flechas.png',
+    'https://joseadolfomartinezolvera.github.io/Divisas/index.html',
 ];
 
 const CACHE_NAME_INMUTABLE = 'inmutable-v1';
